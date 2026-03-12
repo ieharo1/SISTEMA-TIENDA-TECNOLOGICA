@@ -1,0 +1,1 @@
+export interface Garantia {\n  id?: number;\n  ventaId?: number;\n  productoId?: number;\n  fechaInicio?: string;\n  fechaFin?: string;\n  estado?: string;\n  descripcion?: string;\n}}\n
